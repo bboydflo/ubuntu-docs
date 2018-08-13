@@ -12,3 +12,6 @@
 4. add [flatpak](https://flatpak.org/setup/Ubuntu/) support and install fedora packages
 5. install `gnome-tweak` tool and customzie the look and feel
 6. watch this video: https://www.youtube.com/watch?v=QTs2hMRlFSA
+7. install fonts: https://github.com/bboydflo/top-programming-fonts
+8. tweak ubuntu to use https://github.com/rsms/inter font stack
+9. install zsh and tweak it
